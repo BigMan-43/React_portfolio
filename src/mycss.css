@@ -1,0 +1,71 @@
+/* Navbar css */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+    /* background-color: black;   */
+}
+.navbar-main{
+    background-color: red;
+    margin: 7px 16px;
+    width: auto;
+    min-height: 7vh;
+}
+/* .nav-name{
+    display: flex;
+    background-color: blue;
+    width: 20%;
+    height: 100%;
+    /* justify-content: center; */
+
+.navbar span{
+    font-size: 30px;
+    font-weight: bolder;
+}
+.navbar span a{
+    text-decoration: none;
+    color: white;
+
+}
+.navbar{
+    background-color: black;
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.div-navbar ul li{
+    display: inline-block;
+    list-style: none;
+    padding: 20px;
+    font-size: 20px;
+}
+.div-navbar ul li a{
+    text-decoration: none;
+    color: white;
+    transition: text-decoration 5s ease;
+    font-weight: 100;
+    font-family: c;
+}
+.div-navbar ul li a:hover{
+    text-decoration: underline;    
+    /* text-decoration-color: gold ; */
+}
+.body-div{
+    width: 60%;
+    height: 30vh;
+    background-color: red;
+    margin: auto;
+    
+}
+.bd-1{
+    height: 100%;
+    display: inline-block;
+    width: 40%;
+}
+.bd-2{
+    height: 100%;
+    display: inline-block;
+    width: 60%;
+}
